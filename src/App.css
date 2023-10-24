@@ -1,0 +1,30 @@
+/*Navigation bar formatting*/
+.navBar {
+  font-size: 24px;
+  color: white;
+  background-color: green;
+  text-align: center;
+  padding: 10px;
+}
+.navBar a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+.navBar a:hover {
+  background-color: #000000;
+}
+
+/*Header 3 formatting*/
+h3 {
+  font-weight: bold;
+  border: solid;
+  border-color: green;
+  border-width: thin;
+}
+
+/*Form formatting*/
+.inputForm {
+  font-weight: bold;
+  padding: 2em;
+}
